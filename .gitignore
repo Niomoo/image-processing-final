@@ -1,3 +1,4 @@
 class_data
 *.weights
 result/
+__pycache__/
