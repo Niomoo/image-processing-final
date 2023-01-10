@@ -1,5 +1,4 @@
 from PyQt5 import QtWidgets
-
 from controller import MainWindow_controller
 
 if __name__ == '__main__':
