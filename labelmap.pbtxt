@@ -1,0 +1,12 @@
+item {
+    id: 0
+    name: 'powder_uncover'
+}
+item {
+    id: 1
+    name: 'powder_uneven'
+}
+item {
+    id: 2
+    name: 'scratch'
+}

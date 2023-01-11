@@ -2,3 +2,5 @@ class_data
 *.weights
 result/
 __pycache__/
+images/
+masks/
